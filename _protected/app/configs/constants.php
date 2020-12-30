@@ -113,6 +113,7 @@ define('PH7_TPL', 'themes/');
 define('PH7_CSS', 'css/');
 define('PH7_JS', 'js/');
 define('PH7_IMG', 'img/');
+define('PH7_ADD', 'plugins/');
 
 /***** STATIC *****/
 
